@@ -7,3 +7,10 @@ build/
 configure
 config.h.in*
 Makefile.in
+Makefile
+config.h
+config.log
+config.status
+libfixposix.spec
+libtool
+stamp-h1
