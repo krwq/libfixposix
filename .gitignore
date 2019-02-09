@@ -14,3 +14,4 @@ config.status
 libfixposix.spec
 libtool
 stamp-h1
+*.lo
