@@ -15,3 +15,10 @@ libfixposix.spec
 libtool
 stamp-h1
 *.lo
+.deps/
+.libs/
+.dirstamp
+src/include/lfp/time.h
+src/lib/buildinfo.c
+src/lib/libfixposix.la
+src/libfixposix.pc
